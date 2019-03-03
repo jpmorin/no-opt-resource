@@ -1,0 +1,4 @@
+github-https: https://github.com/jpmorin/no-opt-resource.git
+github-ssh: git@github.com:jpmorin/no-opt-resource.git
+docker-image-repo: jpmorin/no-opt-resource
+docker-image-name: no-opt-resource
