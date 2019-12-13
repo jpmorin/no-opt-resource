@@ -1,7 +1,7 @@
 # no-opt-resource
 A custom concourse-ci resource written in bash which implements the default no-opt behavior.
 
-https://concourse-ci.org/implementing-resources.html
+https://concourse-ci.org/implementing-resource-types.html
 
 [![jpmorin/no-opt-resource](http://dockeri.co/image/jpmorin/no-opt-resource)](https://hub.docker.com/r/jpmorin/no-opt-resource/)
 
